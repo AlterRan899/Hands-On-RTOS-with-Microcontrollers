@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "nucleo_f767zi_gpio.h": "c",
+        "semphr.h": "c",
+        "nucleo_f767zi_init.h": "c"
+    }
+}
